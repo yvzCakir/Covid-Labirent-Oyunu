@@ -1,0 +1,10 @@
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.csprojAssemblyReference.cache
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.Form1.resources
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.cache
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.csproj.CoreCompileInputs.cache
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\yvz\Desktop\Uygulamalar\oyun\oyun\obj\Debug\oyun.pdb
